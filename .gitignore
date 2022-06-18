@@ -1,0 +1,6 @@
+﻿SHLight&DeRing/Library
+SHLight&DeRing/Logs
+SHLight&DeRing/obj
+SHLight&DeRing/.idea
+*.csproj
+*.sln
